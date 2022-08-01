@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		D099250F2896CA07008112DB /* classPractice0App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D099250E2896CA07008112DB /* classPractice0App.swift */; };
+		D099250F2896CA07008112DB /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = D099250E2896CA07008112DB /* main.swift */; };
 		D09925112896CA07008112DB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D09925102896CA07008112DB /* ContentView.swift */; };
 		D09925132896CA09008112DB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D09925122896CA09008112DB /* Assets.xcassets */; };
 		D09925162896CA09008112DB /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D09925152896CA09008112DB /* Preview Assets.xcassets */; };
@@ -35,7 +35,7 @@
 
 /* Begin PBXFileReference section */
 		D099250B2896CA07008112DB /* classPractice0.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = classPractice0.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		D099250E2896CA07008112DB /* classPractice0App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = classPractice0App.swift; sourceTree = "<group>"; };
+		D099250E2896CA07008112DB /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		D09925102896CA07008112DB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		D09925122896CA09008112DB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D09925152896CA09008112DB /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
@@ -95,7 +95,7 @@
 		D099250D2896CA07008112DB /* classPractice0 */ = {
 			isa = PBXGroup;
 			children = (
-				D099250E2896CA07008112DB /* classPractice0App.swift */,
+				D099250E2896CA07008112DB /* main.swift */,
 				D09925102896CA07008112DB /* ContentView.swift */,
 				D09925122896CA09008112DB /* Assets.xcassets */,
 				D09925172896CA09008112DB /* classPractice0.entitlements */,
@@ -260,7 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D09925112896CA07008112DB /* ContentView.swift in Sources */,
-				D099250F2896CA07008112DB /* classPractice0App.swift in Sources */,
+				D099250F2896CA07008112DB /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
